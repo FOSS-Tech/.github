@@ -1,1 +1,1 @@
-<img src="welcome_foss.jpeg">
+<img src="welc_foss.jpeg">
